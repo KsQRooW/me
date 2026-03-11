@@ -21854,6 +21854,8 @@ n.ch$!==$&&A.aL()
 n.ch$=h
 i=h}n.TG(new A.A7(k,q,j,i,null))
 n.Fn()
+q=v.G.document.getElementById("loading")
+if(q!=null)q.remove()
 return A.N(null,r)}})
 return A.O($async$YC,r)},
 ang:function ang(){},
